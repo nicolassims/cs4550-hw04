@@ -3,3 +3,15 @@
 //Handle prime numbers for factorizing
 //handle arithmetic expressions only having the first number read
 //Handle printing floats when they're not necessary for doubling
+
+//log in as nicolask
+//sudo rm -r cs4550-hw04
+//su practice
+//git clone https://github.com/nicolassims/cs4550-hw04.git
+//cd cs4550-hw04
+//./deploy.sh
+//{ CTRL+C }
+//exit
+//sudo systemctl start hw04
+//sudo systemctl enable hw04
+//sudo systemctl status hw04
