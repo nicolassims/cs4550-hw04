@@ -28,7 +28,7 @@ defmodule Practice.PracticeTest do
   end
 
   test "evaluate some palindromes" do
-    assert palindrome("giraffe") == false
-    assert palindrome("girafarig") == true
+    assert palindrome("giraffe") == "false"
+    assert palindrome("girafarig") == "true"
   end
 end

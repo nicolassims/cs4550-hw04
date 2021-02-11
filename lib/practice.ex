@@ -21,6 +21,6 @@ defmodule Practice do
   end
 
   def palindrome(word) do
-    word == String.reverse(String.downcase(word))
+    inspect(word == String.reverse(String.downcase(word)))
   end
 end
