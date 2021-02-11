@@ -20,5 +20,7 @@ defmodule Practice do
     Practice.Factor.factor(x)
   end
 
-  # TODO: Add a palindrome? function.
+  def palindrome(word) do
+    word == String.reverse(String.downcase(word))
+  end
 end
