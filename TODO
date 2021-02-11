@@ -1,0 +1,4 @@
+//Handle internal server errors: i.e.,submitting with no value
+//Handle invalid inputs, i.e. the number "thirty" for factorizing
+//Handle prime numbers for factorizing
+//handle arithmetic expressions only having the first number read
