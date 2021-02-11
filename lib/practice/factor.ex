@@ -19,6 +19,5 @@ defmodule Practice.Factor do
     |> parseInt()
     |> factorOut([], 2)
     |> Enum.reverse()
-    #|> inspect()
   end
 end
