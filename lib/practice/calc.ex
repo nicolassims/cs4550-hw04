@@ -79,6 +79,7 @@ defmodule Practice.Calc do
   def calc(expr) do
     # This should handle +,-,*,/ with order of operations,
     # but doesn't need to handle parens.
+    # There _MUST_ be spaces between separate numbers and operations. Otherwise, it's a bad input.
     expr
     |> String.split(~r/\s+/)
     |> Enum.map(&tag_token/1)
