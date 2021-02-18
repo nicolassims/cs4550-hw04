@@ -4,6 +4,10 @@
 //handle arithmetic expressions only having the first number read
 //Handle printing floats when they're not necessary for doubling
 
+//sudo adduser username
+//may need to chmod .sh files
+//sudo cp hw05.service /etc/systemd/system
+
 //log in as nicolask
 //sudo rm -r cs4550-hw04
 //su practice
