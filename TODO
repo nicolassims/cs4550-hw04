@@ -11,6 +11,8 @@
 //sudo mv hw05.nginx /etc/nginx/sites-available/hw05.freudiancreations.website
 //ln /etc/nginx/sites-available/hw05.freudiancreations.website /etc/nginx/sites-enabled
 
+//service nginx restart
+
 //log in as nicolask
 //sudo rm -r cs4550-hw04
 //su practice
