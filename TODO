@@ -13,6 +13,8 @@
 
 //service nginx restart
 
+//vim prod.exs, fix the example.com and port
+
 //log in as nicolask
 //sudo rm -r cs4550-hw04
 //su practice
